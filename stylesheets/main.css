@@ -5622,5 +5622,18 @@ button.close {
 @media print {
   .hidden-print {
     display: none !important; } }
+.navbar {
+  margin-bottom: 0; }
+
+.row {
+  margin-left: 0;
+  margin-right: 0; }
+
+.kim {
+  padding: 3%; }
+  .kim img {
+    width: 100%; }
+  .kim h3 {
+    text-align: center; }
 
 /*# sourceMappingURL=main.css.map */
