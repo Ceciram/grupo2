@@ -5638,13 +5638,13 @@ button.close {
 
 /*fotter*/
 .background {
-  background-color: #D81B60; }
+  background-color: #00BCD4; }
 
 img.imagen {
   width: 50px; }
 
 p.parrafo {
-  color: wheat; }
+  color: teal; }
 
 h2 {
   color: white;
@@ -5653,5 +5653,10 @@ h2 {
 
 .social {
   text-align: center; }
+
+.container.fotter {
+  margin-left: 0;
+  margin-right: 0;
+  width: 100%; }
 
 /*# sourceMappingURL=main.css.map */
