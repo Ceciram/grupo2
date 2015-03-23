@@ -19,7 +19,7 @@
 
 /*fotter*/
 .background {
-  background-color:#D81B60;
+  background-color:#00BCD4;
 }
 
 img.imagen {
@@ -27,7 +27,7 @@ img.imagen {
 }
 
 p.parrafo {
-  color: wheat;
+  color: teal;
 }
 
 h2 {
@@ -38,4 +38,10 @@ h2 {
 
 .social {
   text-align: center;
+}
+
+.container.fotter {
+  margin-left: 0;
+  margin-right: 0;
+  width: 100%;
 }
