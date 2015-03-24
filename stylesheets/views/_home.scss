@@ -7,6 +7,15 @@
   margin-right:0;
 }
 
+nav.navbar.navbar-default {
+  background-color: black;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: white;
+}
+
+
 .kim{
   padding:3%;
   img{
